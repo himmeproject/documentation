@@ -2,4 +2,4 @@
 Documentation for the Historical Index of the Medieval Middle East
 
 I am experimenting using branches.
-If the same file is changed elsewhere, what happens?
+What if a different file is created on the branch, and then this is edited?
